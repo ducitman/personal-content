@@ -8,7 +8,7 @@ A simple gallery of popular technology logos for easy reference or reuse.
 
 | Oracle | SQL Server | Python | MongoDB | JavaScript | CSS |
 |--------|------------|--------|---------|------------|-----|
-| <img src="logos/oracle.png" alt="Oracle Logo" width="64" /> | <img src="logos/sqlserver.png" alt="SQL Server Logo" width="64" /> | <img src="logos/python.png" alt="Python Logo" width="64" /> | <img src="logos/mongodb.png" alt="MongoDB Logo" width="64" /> | <img src="logos/javascript.png" alt="JavaScript Logo" width="64" /> | <img src="logos/css.png" alt="CSS Logo" width="64" /> |
+| <img src="logos/oracle-svgrepo-com.png" alt="Oracle Logo" width="64" /> | <img src="logos/microsoft-sql-server-logo-svgrepo-com.png" alt="SQL Server Logo" width="64" /> | <img src="logos/python-svgrepo-com.png" alt="Python Logo" width="64" /> | <img src="logos/mongodb-svgrepo-com.png" alt="MongoDB Logo" width="64" /> | <img src="logos/js-svgrepo-com.png" alt="JavaScript Logo" width="64" /> | <img src="logos/css-3-svgrepo-com.png" alt="CSS Logo" width="64" /> |
 
 ---
 
@@ -17,11 +17,11 @@ A simple gallery of popular technology logos for easy reference or reuse.
 - **Download:** Right-click any image to save it.
 - **Reference in Markdown:**  
   ```markdown
-  ![Oracle](logos/oracle.png)
+  ![Oracle](logos/oracle-svgrepo-com.png)
   ```
 - **Reference in HTML:**  
   ```html
-  <img src="logos/oracle.png" alt="Oracle Logo" width="64" />
+  <img src="logos/oracle-svgrepo-com.png" alt="Oracle Logo" width="64" />
   ```
 
 ---
